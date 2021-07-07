@@ -1,5 +1,8 @@
 # ClickToCopyElement
 
+![click-to-copy](https://user-images.githubusercontent.com/86413572/124750519-d9746500-df25-11eb-9321-ec0b32103a9b.png)
+
+
 ## Usage
 1. Include the click-copy.lib.js Library to your HTML Project:
 ```html
