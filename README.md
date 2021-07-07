@@ -12,11 +12,11 @@
 </html>
 ```
 
-3. Add the custom element tag <click-copy></click-copy> to your HTML document:
+2. Add the custom element tag <click-copy></click-copy> to your HTML document:
 ```html
 <click-copy hint-text="This text will be shown as a copied confirmation. It's optional.">
   Your text which should be copied to the clipboard
 </click-copy>
 ```
 
-5. It will be automatically initialized by the click-copy.lib.js Library.
+3. It will be automatically initialized by the click-copy.lib.js Library.
